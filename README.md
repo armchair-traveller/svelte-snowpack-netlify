@@ -1,3 +1,9 @@
+TODO: finish https://www.snowpack.dev/tutorials/svelte
+
+_from hereon lies default README for new snowpack apps_
+
+---
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
