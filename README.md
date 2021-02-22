@@ -1,4 +1,4 @@
-TODO: finish https://www.snowpack.dev/tutorials/svelte
+TODO: https://www.snowpack.dev/tutorials/svelte#customize-your-project-layout
 
 _from hereon lies default README for new snowpack apps_
 
