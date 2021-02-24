@@ -1,4 +1,6 @@
-TODO: https://www.snowpack.dev/tutorials/svelte#customize-your-project-layout
+TODO: https://www.snowpack.dev/guides/optimize-and-bundle#option-1%3A-built-in-optimizations
+
+TODO: use ESbuild, begin setting and testing Netlify
 
 _from hereon lies default README for new snowpack apps_
 
