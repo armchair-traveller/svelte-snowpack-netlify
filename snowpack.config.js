@@ -10,8 +10,12 @@ module.exports = {
     // {"match": "routes", "src": ".*", "dest": "/index.html"},
   ],
   optimize: {
-    /* Example: Bundle your final build: */
-    // "bundle": true,
+    /* Use built-in esbuild bundling for build */
+    bundle: true,
+    minify: true,
+    treeshake: true,
+    splitting: true,
+    target: "es2020",
   },
   packageOptions: {
     /* ... */
